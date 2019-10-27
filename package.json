@@ -1,0 +1,12 @@
+{
+    "name": "shop",
+    "scripts": {
+        "client": "parcel src/client/index.html",
+        "server": "json-server src/server/cart.json"
+    },
+    "devDependencies": {
+        "json-server": "^0.15.1",
+        "parcel": "^1.12.4",
+        "typescript": "^3.6.4"
+    }
+}
