@@ -1,6 +1,6 @@
 # warsawjs-workshop-37-shop
 
-⛩️ WarsawJS Workshop #37 — TypeScript — Projekt sklepu internetowego
+⛩️ WarsawJS Workshop #37 — TypeScript
 
 ## Usage
 
